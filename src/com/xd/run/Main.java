@@ -1,4 +1,4 @@
-package com.xd;
+package com.xd.run;
 
 public class Main {
 
